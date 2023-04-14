@@ -1,5 +1,13 @@
 function isPalindrome(word) {
   // Write your algorithm here
+
+  function isPalindrome(str) {
+    const len = str.length;
+
+    //for loop to traverse thru the strin
+   
+    
+  }
 }
 
 /* 
